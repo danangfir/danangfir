@@ -1,7 +1,7 @@
 <details>
-  <summary>PGP Public Key</summary>
-  ```
-  
+<summary> PGP Public Key</summary>
+
+```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGf9k/MBEADI9h20DopOzci5MiyWhm5wNk5dJWwJx6mQgDV6bNx1CAFdPyTH
@@ -54,7 +54,15 @@ r/H98ZOEukcjZlIjNomKrxFhyf/ySrufQWkn+8u3kshZIHAZiiddoUFAo3s0CY+q
 ZDsscdk+WQcmJNvwhaN/YC25
 =hP66
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
 </details>
 
+![61](img/6.1.jpg)
+
+### Technologies I work with
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg" alt="rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/>
+</p>
