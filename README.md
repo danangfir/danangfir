@@ -1,5 +1,5 @@
 <details>
-<summary> PGP Public Key</summary>
+<summary>🔐✉️📫 PGP Public Key</summary>
 
 ```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
