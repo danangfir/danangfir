@@ -1,6 +1,7 @@
 <details>
   <summary>PGP Public Key</summary>
   ```
+  
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGf9k/MBEADI9h20DopOzci5MiyWhm5wNk5dJWwJx6mQgDV6bNx1CAFdPyTH
@@ -53,6 +54,7 @@ r/H98ZOEukcjZlIjNomKrxFhyf/ySrufQWkn+8u3kshZIHAZiiddoUFAo3s0CY+q
 ZDsscdk+WQcmJNvwhaN/YC25
 =hP66
 -----END PGP PUBLIC KEY BLOCK-----
+
 ```
 </details>
 
